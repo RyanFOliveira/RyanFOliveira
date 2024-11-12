@@ -7,7 +7,7 @@
 
 ![RyanFOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFOliveira&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFOliveira&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFOliveira&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso
 
