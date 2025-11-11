@@ -22,4 +22,4 @@
 </div>
 
 ### Contatos
-📧 ra9187754@gmail.com 📱+55 61 99187-4842
+📧ryan.data2001@gmail.com 📱+55 61 99187-4842
