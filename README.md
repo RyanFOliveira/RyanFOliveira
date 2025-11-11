@@ -1,6 +1,12 @@
 
 ### Olá! Eu sou o Ryan Freitas 👋🏼
 
+Sou pós-graduado em Data Science e Inteligência Artificial e graduado em Gestão de Tecnologia da Informação. Tenho paixão por transformar dados em conhecimento e desenvolver soluções que unem tecnologia, análise e inovação.
+
+Atuo com Python, Power BI, Databricks e SQL para análise, modelagem e visualização de dados, além de ter experiência em desenvolvimento web e backend com Java, Spring Boot e JavaScript.
+
+No meu GitHub, compartilho projetos práticos nas áreas de Ciência de Dados, BI e Desenvolvimento Web, sempre buscando aprimorar minhas habilidades e contribuir com a comunidade tech. 🚀
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-freitas-46011b248/)
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/ryan-freitas-46011b248/)
 
