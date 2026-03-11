@@ -1,11 +1,19 @@
 
 ### Olá! Eu sou o Ryan Freitas de Oliveira 👋🏼
 
-Sou pós-graduado em Data Science e Inteligência Artificial e graduado em Gestão de Tecnologia da Informação. Tenho paixão por transformar dados em conhecimento e desenvolver soluções que unem tecnologia, análise e inovação.
+*/*Data Science | Machine Learning | Data Analytics | Python | SQL | Databricks*/*
 
-Atuo com Python, Power BI, Databricks e SQL para análise, modelagem e visualização de dados, além de ter experiência em desenvolvimento web e backend com Java, Spring Boot e JavaScript.
+## 👨‍💻 Sobre mim
 
-No meu GitHub, compartilho projetos práticos nas áreas de Ciência de Dados, BI e Desenvolvimento Web, sempre buscando aprimorar minhas habilidades e contribuir com a comunidade tech. 🚀
+Sou pós-graduado em **Data Science e Inteligência Artificial** e graduado em **Gestão de Tecnologia da Informação**. Tenho interesse em transformar dados em conhecimento e desenvolver soluções baseadas em **análise de dados, machine learning e inteligência artificial**.
+
+Atuo com **Python, SQL, Databricks e Power BI** para análise, modelagem e visualização de dados, aplicando técnicas de **ETL, exploração de dados e construção de dashboards analíticos** para apoiar a tomada de decisão.
+
+Também possuo experiência em desenvolvimento backend utilizando **Java, Spring Boot e JavaScript**, o que contribui para a construção de **pipelines de dados e integração entre sistemas**.
+
+Neste GitHub compartilho **projetos práticos de Ciência de Dados, Machine Learning e Business Intelligence**, explorando desde análise exploratória de dados até desenvolvimento de modelos preditivos e visualizações interativas.
+
+🚀 Sempre buscando evoluir em **Data Science, Inteligência Artificial e Engenharia de Dados**, aplicando tecnologia para gerar impacto real através dos dados.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-freitas-46011b248/)
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/ryan-freitas-46011b248/)
