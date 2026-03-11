@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Ryan Freitas de Oliveira 👋🏼
 
-*/*Data Science | Machine Learning | Data Analytics | Python | SQL | Databricks*/*
+**Data Science | Machine Learning | Data Analytics | Python | SQL | Databricks*/*
 
 ## 👨‍💻 Sobre mim
 
